@@ -1,6 +1,6 @@
 // ==================== CONFIGURATION ====================
 // Cloudflare Worker URL - Yahan apna worker URL daalein
-const API_BASE = 'https://results-api.YOUR-SUBDOMAIN.workers.dev';
+const API_BASE = 'https://results-api.jmhskjwebsitebuilders.workers.dev/';
 
 // ==================== GLOBAL VARIABLES ====================
 let currentAdmin = null;
